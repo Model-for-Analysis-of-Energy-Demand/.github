@@ -1,5 +1,5 @@
 
-<img width="300" height="236.4" alt="MAED Logo" src="https://github.com/user-attachments/assets/2805290b-79df-469c-a320-46d50b3aff14" /> 
+![MAED Logo Banner](https://github.com/user-attachments/assets/a5805a9e-0a9e-4eae-95ba-a8a4b882fbc3)
 
 # Model for Analysis of Energy Demand
 
