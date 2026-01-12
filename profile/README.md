@@ -9,6 +9,7 @@ The MAED organisation consists of the following repositories:
 * [MAED-UI](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-UI): contains the installation file for the MAED User Interface (UI) and instructions for how to install other necessary software.
 * [MAED-Code](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Code): contains the code used to run the model through the UI.
 * [MAED-Projects](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects): contains model files for peer-reviewed published MAED case studies.
+* [MAED-Projects-EMP](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects-EMP):contains a collection of projects developed as part of MAED training at Energy Modelling Platform events.
 
 ## Other Resources
 
